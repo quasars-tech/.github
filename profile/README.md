@@ -15,7 +15,7 @@ At Quasars Tech, we specialize in building cutting-edge software solutions that 
 
 **Our core areas of expertise:**
 - 💻 Full-Stack Web Development  
-- ☁️ Cloud Engineering (AWS, GCP)  
+- ☁️ Cloud Engineering (GCP, Azure, AWS)  
 - 📊 Data Engineering & Big Data Pipelines  
 - 🔐 DevOps & Automation  
 - 🧠 Generative AI & Machine Learning  
