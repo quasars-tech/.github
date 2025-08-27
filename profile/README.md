@@ -1,4 +1,4 @@
-# 🌌 Quasars Tech
+# 🌌 Quasars Fintech
 
 ### Illuminating the Future of Technology.
 
