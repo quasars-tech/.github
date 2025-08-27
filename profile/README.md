@@ -85,7 +85,7 @@ To become the leading digital Loan & Debt management platform that transforms ho
 
 ## 🏢 Company Information
 
-**Founded:** 2023  
+**Founded:** 2025  
 **Headquarters:** India  
 **Industry:** Financial Technology (FinTech)  
 **Focus:** Loan & Debt Management Solutions  
